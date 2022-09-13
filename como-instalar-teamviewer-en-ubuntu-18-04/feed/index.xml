@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como Instalar TeamViewer en Ubuntu 18.04	</title>
+	<atom:link href="/como-instalar-teamviewer-en-ubuntu-18-04/feed/" rel="self" type="application/rss+xml" />
+	<link>/como-instalar-teamviewer-en-ubuntu-18-04/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Thu, 04 Jul 2019 12:35:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>
+		Por: Javier Pérez		</title>
+		<link>/como-instalar-teamviewer-en-ubuntu-18-04/#comment-30</link>
+
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Thu, 04 Jul 2019 12:35:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=518#comment-30</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29&quot;&gt;Paty Malta&lt;/a&gt;.
+
+Me alegro!! Comparte para poder ayudar a mas gente.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29">Paty Malta</a>.</p>
+<p>Me alegro!! Comparte para poder ayudar a mas gente.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Paty Malta		</title>
+		<link>/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29</link>
+
+		<dc:creator><![CDATA[Paty Malta]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2019 22:18:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=518#comment-29</guid>
+
+					<description><![CDATA[Excelente, todo funcionó de maravilla y a la primera, muchas gracias]]></description>
+			<content:encoded><![CDATA[<p>Excelente, todo funcionó de maravilla y a la primera, muchas gracias</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

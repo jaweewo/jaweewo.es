@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linux Mint &#8211; Jaweewo &#8211; Informática</title>
+	<atom:link href="/tag/linux-mint/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Mon, 12 Nov 2018 17:24:37 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<title>Linux Mint &#8211; Jaweewo &#8211; Informática</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como Instalar Paquetes DEB en Ubuntu</title>
+		<link>/como-instalar-paquetes-deb-en-ubuntu/</link>
+					<comments>/como-instalar-paquetes-deb-en-ubuntu/#comments</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 11:59:32 +0000</pubDate>
+				<category><![CDATA[Debian]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Linux Mint]]></category>
+		<guid isPermaLink="false">/?p=492</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Deb es el formato de instalación de paquetes para aquellos sistemas basados en Debian. Los paquetes pueden ser instalados y&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-instalar-paquetes-deb-en-ubuntu/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Debian &#8211; Jaweewo &#8211; Informática</title>
+	<atom:link href="/category/debian/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Mon, 23 Dec 2019 16:32:26 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<title>Debian &#8211; Jaweewo &#8211; Informática</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como Instalar PIP en Debian 10</title>
+		<link>/como-instalar-pip-en-debian-10/</link>
+					<comments>/como-instalar-pip-en-debian-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2019 16:18:11 +0000</pubDate>
+				<category><![CDATA[Debian]]></category>
+		<guid isPermaLink="false">/?p=622</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Pip es un sistema de administración de paquetes que te permite instalar paquetes Python. Con pip, puedes instalar paquetes directamente&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-instalar-pip-en-debian-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como crear un usuario Sudo en Debian</title>
+		<link>/como-crear-un-usuario-sudo-en-debian/</link>
+					<comments>/como-crear-un-usuario-sudo-en-debian/#respond</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2019 20:22:37 +0000</pubDate>
+				<category><![CDATA[Debian]]></category>
+		<guid isPermaLink="false">/?p=616</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+El comando sudo (Acronimo para Super User DO) es un programa diseñado para permitir a un usuario ejecutar comandos con&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-crear-un-usuario-sudo-en-debian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

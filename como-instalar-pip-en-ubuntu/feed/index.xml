@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como instalar PIP en Ubuntu	</title>
+	<atom:link href="/como-instalar-pip-en-ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>/como-instalar-pip-en-ubuntu/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Fri, 09 Nov 2018 12:59:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>
+		Por: Javier Pérez		</title>
+		<link>/como-instalar-pip-en-ubuntu/#comment-18</link>
+
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2018 12:59:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=458#comment-18</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-pip-en-ubuntu/#comment-17&quot;&gt;Sisian&lt;/a&gt;.
+
+Gracias. Si, la verdad que mas gracioso sería.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-pip-en-ubuntu/#comment-17">Sisian</a>.</p>
+<p>Gracias. Si, la verdad que mas gracioso sería.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sisian		</title>
+		<link>/como-instalar-pip-en-ubuntu/#comment-17</link>
+
+		<dc:creator><![CDATA[Sisian]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2018 12:56:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=458#comment-17</guid>
+
+					<description><![CDATA[Una pena que se llame PIP y no PIPO, sería mucho más famoso. Un artículo muy bien argumentado.]]></description>
+			<content:encoded><![CDATA[<p>Una pena que se llame PIP y no PIPO, sería mucho más famoso. Un artículo muy bien argumentado.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

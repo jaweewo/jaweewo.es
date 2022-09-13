@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Buscar archivos desde linea de comandos	</title>
+	<atom:link href="/buscar-archivos-desde-linea-de-comandos/feed/" rel="self" type="application/rss+xml" />
+	<link>/buscar-archivos-desde-linea-de-comandos/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Tue, 06 Nov 2018 11:28:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>
+		Por: Alejandro		</title>
+		<link>/buscar-archivos-desde-linea-de-comandos/#comment-5</link>
+
+		<dc:creator><![CDATA[Alejandro]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 11:28:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=432#comment-5</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/buscar-archivos-desde-linea-de-comandos/#comment-4&quot;&gt;Sisian&lt;/a&gt;.
+
+Un script para regar las plantas de forma automática.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/buscar-archivos-desde-linea-de-comandos/#comment-4">Sisian</a>.</p>
+<p>Un script para regar las plantas de forma automática.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Sisian		</title>
+		<link>/buscar-archivos-desde-linea-de-comandos/#comment-4</link>
+
+		<dc:creator><![CDATA[Sisian]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 11:24:07 +0000</pubDate>
+		<guid isPermaLink="false">/?p=432#comment-4</guid>
+
+					<description><![CDATA[Muchas gracias, esto me ayudará con mis scripts.]]></description>
+			<content:encoded><![CDATA[<p>Muchas gracias, esto me ayudará con mis scripts.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

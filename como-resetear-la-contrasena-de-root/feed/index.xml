@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Cómo resetear la contraseña de root	</title>
+	<atom:link href="/como-resetear-la-contrasena-de-root/feed/" rel="self" type="application/rss+xml" />
+	<link>/como-resetear-la-contrasena-de-root/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Thu, 08 Nov 2018 10:10:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>
+		Por: Alejandro		</title>
+		<link>/como-resetear-la-contrasena-de-root/#comment-12</link>
+
+		<dc:creator><![CDATA[Alejandro]]></dc:creator>
+		<pubDate>Thu, 08 Nov 2018 10:10:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=478#comment-12</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-resetear-la-contrasena-de-root/#comment-11&quot;&gt;Javier Pérez&lt;/a&gt;.
+
+Excelente, como siempre.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-resetear-la-contrasena-de-root/#comment-11">Javier Pérez</a>.</p>
+<p>Excelente, como siempre.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Javier Pérez		</title>
+		<link>/como-resetear-la-contrasena-de-root/#comment-11</link>
+
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Thu, 08 Nov 2018 09:06:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=478#comment-11</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-resetear-la-contrasena-de-root/#comment-10&quot;&gt;Alejandro&lt;/a&gt;.
+
+En caso de que sea necesario para los visitantes del post, se creará un post nuevo o bien puedes mandar un correo electrónico.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-resetear-la-contrasena-de-root/#comment-10">Alejandro</a>.</p>
+<p>En caso de que sea necesario para los visitantes del post, se creará un post nuevo o bien puedes mandar un correo electrónico.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

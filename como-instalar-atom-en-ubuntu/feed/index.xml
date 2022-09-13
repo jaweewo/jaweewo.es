@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios en: Como instalar Atom en Ubuntu	</title>
+	<atom:link href="/como-instalar-atom-en-ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>/como-instalar-atom-en-ubuntu/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Fri, 07 Dec 2018 11:58:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+	<item>
+		<title>
+		Por: Javier Pérez		</title>
+		<link>/como-instalar-atom-en-ubuntu/#comment-24</link>
+
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2018 13:04:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=512#comment-24</guid>
+
+					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-atom-en-ubuntu/#comment-23&quot;&gt;Alejandro&lt;/a&gt;.
+
+Si te dedicas a realizar programas que compartes en github es altamente recomendable su instalación.]]></description>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-atom-en-ubuntu/#comment-23">Alejandro</a>.</p>
+<p>Si te dedicas a realizar programas que compartes en github es altamente recomendable su instalación.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Alejandro		</title>
+		<link>/como-instalar-atom-en-ubuntu/#comment-23</link>
+
+		<dc:creator><![CDATA[Alejandro]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2018 11:10:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=512#comment-23</guid>
+
+					<description><![CDATA[Buena explicación, considerare instalar atom en mi distribución de ubuntu, porque son un informático guay que utiliza sistemas linux ;) 
+Puta gigabyte]]></description>
+			<content:encoded><![CDATA[<p>Buena explicación, considerare instalar atom en mi distribución de ubuntu, porque son un informático guay que utiliza sistemas linux 😉<br />
+Puta gigabyte</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

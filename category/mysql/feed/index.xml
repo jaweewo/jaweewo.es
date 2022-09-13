@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MySQL &#8211; Jaweewo &#8211; Informática</title>
+	<atom:link href="/category/mysql/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Mon, 05 Nov 2018 16:57:54 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<title>MySQL &#8211; Jaweewo &#8211; Informática</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como crear usuarios en Mysql y otorgar permisos</title>
+		<link>/como-crear-usuarios-en-mysql-y-otorgar-permisos/</link>
+					<comments>/como-crear-usuarios-en-mysql-y-otorgar-permisos/#respond</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2018 15:47:48 +0000</pubDate>
+				<category><![CDATA[MySQL]]></category>
+		<category><![CDATA[MariaDB]]></category>
+		<guid isPermaLink="false">/?p=415</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Antes de empezar con el tutorial, asumo que ya tienes un servidor de MySQL o MariaDB instalado en tu sistema.&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-crear-usuarios-en-mysql-y-otorgar-permisos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

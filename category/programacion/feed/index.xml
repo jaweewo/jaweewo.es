@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programación &#8211; Jaweewo &#8211; Informática</title>
+	<atom:link href="/category/programacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Aprendizaje online.</description>
+	<lastBuildDate>Thu, 25 Jun 2020 17:04:54 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<title>Programación &#8211; Jaweewo &#8211; Informática</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como instalar Visual Studio en Ubuntu 20.04</title>
+		<link>/como-instalar-visual-studio-en-ubuntu-20-04/</link>
+					<comments>/como-instalar-visual-studio-en-ubuntu-20-04/#respond</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 17:02:22 +0000</pubDate>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<guid isPermaLink="false">/?p=679</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Visual Studio Code es un poderoso editor de código abierto desarrollado por Microsoft. Tiene soporte de depuración incorporado, control Git&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-instalar-visual-studio-en-ubuntu-20-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como Instalar Go en CentOS 8</title>
+		<link>/como-instalar-go-en-centos-8/</link>
+					<comments>/como-instalar-go-en-centos-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2019 16:44:28 +0000</pubDate>
+				<category><![CDATA[Centos]]></category>
+		<category><![CDATA[Programación]]></category>
+		<guid isPermaLink="false">/?p=635</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Go, referente a Golang, es un moderno lenguaje de programación Open Source creado por google que te permite construir aplicaciones&#8230;
+</div>]]></description>
+		
+					<wfw:commentRss>/como-instalar-go-en-centos-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
