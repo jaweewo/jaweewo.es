@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como Instalar Paquetes DEB en Ubuntu	</title>
-	<atom:link href="/como-instalar-paquetes-deb-en-ubuntu/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-paquetes-deb-en-ubuntu/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Tue, 13 Nov 2018 08:10:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/como-instalar-paquetes-deb-en-ubuntu/#comment-20</link>
+		<link>./../index.html#comment-20</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2018 08:10:41 +0000</pubDate>
-		<guid isPermaLink="false">/?p=492#comment-20</guid>
+		<guid isPermaLink="false">./../../index.html?p=492#comment-20</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-paquetes-deb-en-ubuntu/#comment-19&quot;&gt;Alejandro&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-19&quot;&gt;Alejandro&lt;/a&gt;.
 
 Evaluaré el contenido del comando awk, si existe suficiente haré uno. Gracias por la idea.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-paquetes-deb-en-ubuntu/#comment-19">Alejandro</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-19">Alejandro</a>.</p>
 <p>Evaluaré el contenido del comando awk, si existe suficiente haré uno. Gracias por la idea.</p>
 ]]></content:encoded>
 		
@@ -37,11 +37,11 @@ Evaluaré el contenido del comando awk, si existe suficiente haré uno. Gracias 
 		<item>
 		<title>
 		Por: Alejandro		</title>
-		<link>/como-instalar-paquetes-deb-en-ubuntu/#comment-19</link>
+		<link>./../index.html#comment-19</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2018 08:08:16 +0000</pubDate>
-		<guid isPermaLink="false">/?p=492#comment-19</guid>
+		<guid isPermaLink="false">./../../index.html?p=492#comment-19</guid>
 
 					<description><![CDATA[Muy buen post. Podrias haser un tutorial de como utilizar awk? 
 

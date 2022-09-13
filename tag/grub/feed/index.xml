@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Grub &#8211; Jaweewo &#8211; Informática</title>
-	<atom:link href="/tag/grub/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Wed, 07 Nov 2018 12:00:47 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,29 +21,29 @@
 	<generator>https://wordpress.org/?v=5.9.4</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<url>./../../../wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
 	<title>Grub &#8211; Jaweewo &#8211; Informática</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cómo resetear la contraseña de root</title>
-		<link>/como-resetear-la-contrasena-de-root/</link>
-					<comments>/como-resetear-la-contrasena-de-root/#comments</comments>
+		<link>./../../../como-resetear-la-contrasena-de-root/index.html</link>
+					<comments>./../../../como-resetear-la-contrasena-de-root/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Wed, 07 Nov 2018 11:53:54 +0000</pubDate>
 				<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Grub]]></category>
-		<guid isPermaLink="false">/?p=478</guid>
+		<guid isPermaLink="false">./../../../index.html?p=478</guid>
 
 					<description><![CDATA[<div class="entry-summary">
 En Linux y diferentes entornos Unix tenemos contraseñas tanto de usuario como de root. En caso de olvido de la&#8230;
 </div>]]></description>
 		
-					<wfw:commentRss>/como-resetear-la-contrasena-de-root/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../como-resetear-la-contrasena-de-root/feed/index.html</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

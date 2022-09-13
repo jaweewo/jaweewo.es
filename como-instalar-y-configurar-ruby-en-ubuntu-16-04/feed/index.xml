@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como Instalar y configurar Ruby en Ubuntu 16.04	</title>
-	<atom:link href="/como-instalar-y-configurar-ruby-en-ubuntu-16-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-y-configurar-ruby-en-ubuntu-16-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 29 Oct 2018 12:08:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

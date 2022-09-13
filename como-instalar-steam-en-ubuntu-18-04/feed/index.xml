@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar Steam en Ubuntu 18.04	</title>
-	<atom:link href="/como-instalar-steam-en-ubuntu-18-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-steam-en-ubuntu-18-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 23 Dec 2019 16:33:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

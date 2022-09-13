@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Cómo resetear la contraseña de root	</title>
-	<atom:link href="/como-resetear-la-contrasena-de-root/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-resetear-la-contrasena-de-root/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Thu, 08 Nov 2018 10:10:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Por: Alejandro		</title>
-		<link>/como-resetear-la-contrasena-de-root/#comment-12</link>
+		<link>./../index.html#comment-12</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Thu, 08 Nov 2018 10:10:46 +0000</pubDate>
-		<guid isPermaLink="false">/?p=478#comment-12</guid>
+		<guid isPermaLink="false">./../../index.html?p=478#comment-12</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-resetear-la-contrasena-de-root/#comment-11&quot;&gt;Javier Pérez&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-11&quot;&gt;Javier Pérez&lt;/a&gt;.
 
 Excelente, como siempre.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-resetear-la-contrasena-de-root/#comment-11">Javier Pérez</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-11">Javier Pérez</a>.</p>
 <p>Excelente, como siempre.</p>
 ]]></content:encoded>
 		
@@ -37,16 +37,16 @@ Excelente, como siempre.]]></description>
 		<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/como-resetear-la-contrasena-de-root/#comment-11</link>
+		<link>./../index.html#comment-11</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Thu, 08 Nov 2018 09:06:50 +0000</pubDate>
-		<guid isPermaLink="false">/?p=478#comment-11</guid>
+		<guid isPermaLink="false">./../../index.html?p=478#comment-11</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-resetear-la-contrasena-de-root/#comment-10&quot;&gt;Alejandro&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-10&quot;&gt;Alejandro&lt;/a&gt;.
 
 En caso de que sea necesario para los visitantes del post, se creará un post nuevo o bien puedes mandar un correo electrónico.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-resetear-la-contrasena-de-root/#comment-10">Alejandro</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-10">Alejandro</a>.</p>
 <p>En caso de que sea necesario para los visitantes del post, se creará un post nuevo o bien puedes mandar un correo electrónico.</p>
 ]]></content:encoded>
 		

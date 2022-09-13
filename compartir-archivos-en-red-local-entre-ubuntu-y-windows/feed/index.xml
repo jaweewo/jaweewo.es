@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Compartir archivos en red local entre Ubuntu y Windows	</title>
-	<atom:link href="/compartir-archivos-en-red-local-entre-ubuntu-y-windows/feed/" rel="self" type="application/rss+xml" />
-	<link>/compartir-archivos-en-red-local-entre-ubuntu-y-windows/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Wed, 07 Nov 2018 10:46:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,18 +20,18 @@
 	<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/compartir-archivos-en-red-local-entre-ubuntu-y-windows/#comment-9</link>
+		<link>./../index.html#comment-9</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Wed, 07 Nov 2018 10:46:00 +0000</pubDate>
-		<guid isPermaLink="false">/?p=465#comment-9</guid>
+		<guid isPermaLink="false">./../../index.html?p=465#comment-9</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/compartir-archivos-en-red-local-entre-ubuntu-y-windows/#comment-8&quot;&gt;Alejandro&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-8&quot;&gt;Alejandro&lt;/a&gt;.
 
 Gracias, Respecto al diseño, estoy realizando pruebas para ver que gusta mas. 
 
 Saludos :D]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/compartir-archivos-en-red-local-entre-ubuntu-y-windows/#comment-8">Alejandro</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-8">Alejandro</a>.</p>
 <p>Gracias, Respecto al diseño, estoy realizando pruebas para ver que gusta mas. </p>
 <p>Saludos 😀</p>
 ]]></content:encoded>
@@ -40,11 +40,11 @@ Saludos :D]]></description>
 		<item>
 		<title>
 		Por: Alejandro		</title>
-		<link>/compartir-archivos-en-red-local-entre-ubuntu-y-windows/#comment-8</link>
+		<link>./../index.html#comment-8</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Wed, 07 Nov 2018 10:32:09 +0000</pubDate>
-		<guid isPermaLink="false">/?p=465#comment-8</guid>
+		<guid isPermaLink="false">./../../index.html?p=465#comment-8</guid>
 
 					<description><![CDATA[Buen post por desgracia no cumplo los requisitos.
 PD: me gustaba el otro diseño.]]></description>

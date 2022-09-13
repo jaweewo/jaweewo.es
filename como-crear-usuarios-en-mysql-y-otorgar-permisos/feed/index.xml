@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como crear usuarios en Mysql y otorgar permisos	</title>
-	<atom:link href="/como-crear-usuarios-en-mysql-y-otorgar-permisos/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-crear-usuarios-en-mysql-y-otorgar-permisos/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 05 Nov 2018 16:57:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

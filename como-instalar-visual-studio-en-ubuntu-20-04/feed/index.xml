@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar Visual Studio en Ubuntu 20.04	</title>
-	<atom:link href="/como-instalar-visual-studio-en-ubuntu-20-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-visual-studio-en-ubuntu-20-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Thu, 25 Jun 2020 17:04:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como Instalar TeamViewer en Ubuntu 18.04	</title>
-	<atom:link href="/como-instalar-teamviewer-en-ubuntu-18-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-teamviewer-en-ubuntu-18-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Thu, 04 Jul 2019 12:35:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/como-instalar-teamviewer-en-ubuntu-18-04/#comment-30</link>
+		<link>./../index.html#comment-30</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Thu, 04 Jul 2019 12:35:38 +0000</pubDate>
-		<guid isPermaLink="false">/?p=518#comment-30</guid>
+		<guid isPermaLink="false">./../../index.html?p=518#comment-30</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29&quot;&gt;Paty Malta&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-29&quot;&gt;Paty Malta&lt;/a&gt;.
 
 Me alegro!! Comparte para poder ayudar a mas gente.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29">Paty Malta</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-29">Paty Malta</a>.</p>
 <p>Me alegro!! Comparte para poder ayudar a mas gente.</p>
 ]]></content:encoded>
 		
@@ -37,11 +37,11 @@ Me alegro!! Comparte para poder ayudar a mas gente.]]></description>
 		<item>
 		<title>
 		Por: Paty Malta		</title>
-		<link>/como-instalar-teamviewer-en-ubuntu-18-04/#comment-29</link>
+		<link>./../index.html#comment-29</link>
 
 		<dc:creator><![CDATA[Paty Malta]]></dc:creator>
 		<pubDate>Mon, 24 Jun 2019 22:18:18 +0000</pubDate>
-		<guid isPermaLink="false">/?p=518#comment-29</guid>
+		<guid isPermaLink="false">./../../index.html?p=518#comment-29</guid>
 
 					<description><![CDATA[Excelente, todo funcionó de maravilla y a la primera, muchas gracias]]></description>
 			<content:encoded><![CDATA[<p>Excelente, todo funcionó de maravilla y a la primera, muchas gracias</p>

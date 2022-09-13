@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar MariaDB en debian 9	</title>
-	<atom:link href="/como-instalar-mariadb-en-debian-9/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-mariadb-en-debian-9/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Tue, 13 Nov 2018 08:05:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

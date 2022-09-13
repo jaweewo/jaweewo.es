@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: 13 atajos de teclado que todo usuario de Ubuntu debería saber	</title>
-	<atom:link href="/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/feed/" rel="self" type="application/rss+xml" />
-	<link>/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Fri, 12 Jul 2019 21:42:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Como Instalar TeamViewer en Ubuntu 18.04 &#124; Jaweewo - Informática		</title>
-		<link>/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/#comment-31</link>
+		<link>./../index.html#comment-31</link>
 
 		<dc:creator><![CDATA[Como Instalar TeamViewer en Ubuntu 18.04 &#124; Jaweewo - Informática]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2019 21:42:36 +0000</pubDate>
-		<guid isPermaLink="false">/?p=483#comment-31</guid>
+		<guid isPermaLink="false">./../../index.html?p=483#comment-31</guid>
 
 					<description><![CDATA[[&#8230;] usando el atajo CTRL + ALT + T (Si quieres saber más sobre atajos de teclado puedes visitar este artículo) o usando el icono de la [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] usando el atajo CTRL + ALT + T (Si quieres saber más sobre atajos de teclado puedes visitar este artículo) o usando el icono de la [&#8230;]</p>
@@ -34,16 +34,16 @@
 		<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/#comment-15</link>
+		<link>./../index.html#comment-15</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Fri, 09 Nov 2018 08:44:52 +0000</pubDate>
-		<guid isPermaLink="false">/?p=483#comment-15</guid>
+		<guid isPermaLink="false">./../../index.html?p=483#comment-15</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/#comment-13&quot;&gt;Alejandro&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-13&quot;&gt;Alejandro&lt;/a&gt;.
 
 Es para generar mas productividad y ser mas eficiente en el uso del equipo.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/13-atajos-de-teclado-que-todo-usuario-de-ubuntu-deberia-saber/#comment-13">Alejandro</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-13">Alejandro</a>.</p>
 <p>Es para generar mas productividad y ser mas eficiente en el uso del equipo.</p>
 ]]></content:encoded>
 		

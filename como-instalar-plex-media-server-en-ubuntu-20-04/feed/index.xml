@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar Plex Media Server en Ubuntu 20.04	</title>
-	<atom:link href="/como-instalar-plex-media-server-en-ubuntu-20-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-plex-media-server-en-ubuntu-20-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 10 Jan 2022 12:37:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

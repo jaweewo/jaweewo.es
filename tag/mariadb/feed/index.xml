@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MariaDB &#8211; Jaweewo &#8211; Informática</title>
-	<atom:link href="/tag/mariadb/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Tue, 13 Nov 2018 08:05:37 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,49 +21,49 @@
 	<generator>https://wordpress.org/?v=5.9.4</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<url>./../../../wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
 	<title>MariaDB &#8211; Jaweewo &#8211; Informática</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Como crear usuarios en Mysql y otorgar permisos</title>
-		<link>/como-crear-usuarios-en-mysql-y-otorgar-permisos/</link>
-					<comments>/como-crear-usuarios-en-mysql-y-otorgar-permisos/#respond</comments>
+		<link>./../../../como-crear-usuarios-en-mysql-y-otorgar-permisos/index.html</link>
+					<comments>./../../../como-crear-usuarios-en-mysql-y-otorgar-permisos/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Wed, 03 Oct 2018 15:47:48 +0000</pubDate>
 				<category><![CDATA[MySQL]]></category>
 		<category><![CDATA[MariaDB]]></category>
-		<guid isPermaLink="false">/?p=415</guid>
+		<guid isPermaLink="false">./../../../index.html?p=415</guid>
 
 					<description><![CDATA[<div class="entry-summary">
 Antes de empezar con el tutorial, asumo que ya tienes un servidor de MySQL o MariaDB instalado en tu sistema.&#8230;
 </div>]]></description>
 		
-					<wfw:commentRss>/como-crear-usuarios-en-mysql-y-otorgar-permisos/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../como-crear-usuarios-en-mysql-y-otorgar-permisos/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Como instalar MariaDB en debian 9</title>
-		<link>/como-instalar-mariadb-en-debian-9/</link>
-					<comments>/como-instalar-mariadb-en-debian-9/#respond</comments>
+		<link>./../../../como-instalar-mariadb-en-debian-9/index.html</link>
+					<comments>./../../../como-instalar-mariadb-en-debian-9/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Fri, 28 Sep 2018 16:06:55 +0000</pubDate>
 				<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Debian9]]></category>
 		<category><![CDATA[MariaDB]]></category>
-		<guid isPermaLink="false">/?p=405</guid>
+		<guid isPermaLink="false">./../../../index.html?p=405</guid>
 
 					<description><![CDATA[<div class="entry-summary">
 MariaDB es un sistema gestor de bases de datos con procesamiento multi-hilo además de open source. Sigue manteniendo compatibilidad con&#8230;
 </div>]]></description>
 		
-					<wfw:commentRss>/como-instalar-mariadb-en-debian-9/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../como-instalar-mariadb-en-debian-9/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

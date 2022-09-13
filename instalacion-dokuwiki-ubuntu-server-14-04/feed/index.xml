@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Instalación Dokuwiki Ubuntu Server 14.04	</title>
-	<atom:link href="/instalacion-dokuwiki-ubuntu-server-14-04/feed/" rel="self" type="application/rss+xml" />
-	<link>/instalacion-dokuwiki-ubuntu-server-14-04/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Tue, 06 Nov 2018 15:02:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

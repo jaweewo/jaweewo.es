@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar un servidor LEMP en CentOS7	</title>
-	<atom:link href="/como-instalar-un-servidor-lemp-en-centos7/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-un-servidor-lemp-en-centos7/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 23 Dec 2019 16:33:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/como-instalar-un-servidor-lemp-en-centos7/#comment-27</link>
+		<link>./../index.html#comment-27</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Thu, 13 Dec 2018 12:38:14 +0000</pubDate>
-		<guid isPermaLink="false">/?p=564#comment-27</guid>
+		<guid isPermaLink="false">./../../index.html?p=564#comment-27</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-instalar-un-servidor-lemp-en-centos7/#comment-26&quot;&gt;Alejandro&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-26&quot;&gt;Alejandro&lt;/a&gt;.
 
 Estoy completamente de acuerdo con su opinión.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-instalar-un-servidor-lemp-en-centos7/#comment-26">Alejandro</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-26">Alejandro</a>.</p>
 <p>Estoy completamente de acuerdo con su opinión.</p>
 ]]></content:encoded>
 		
@@ -37,11 +37,11 @@ Estoy completamente de acuerdo con su opinión.]]></description>
 		<item>
 		<title>
 		Por: Alejandro		</title>
-		<link>/como-instalar-un-servidor-lemp-en-centos7/#comment-26</link>
+		<link>./../index.html#comment-26</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Thu, 13 Dec 2018 08:46:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=564#comment-26</guid>
+		<guid isPermaLink="false">./../../index.html?p=564#comment-26</guid>
 
 					<description><![CDATA[Como diría Sisian fernandes: &quot;No entiendo nada sr. delegado&quot;]]></description>
 			<content:encoded><![CDATA[<p>Como diría Sisian fernandes: &#8220;No entiendo nada sr. delegado&#8221;</p>

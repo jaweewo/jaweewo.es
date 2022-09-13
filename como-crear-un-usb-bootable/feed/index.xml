@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como crear un USB bootable	</title>
-	<atom:link href="/como-crear-un-usb-bootable/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-crear-un-usb-bootable/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 23 Dec 2019 16:32:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,18 +20,18 @@
 	<item>
 		<title>
 		Por: Jose Luis		</title>
-		<link>/como-crear-un-usb-bootable/#comment-43</link>
+		<link>./../index.html#comment-43</link>
 
 		<dc:creator><![CDATA[Jose Luis]]></dc:creator>
 		<pubDate>Tue, 17 Sep 2019 08:12:01 +0000</pubDate>
-		<guid isPermaLink="false">/?p=595#comment-43</guid>
+		<guid isPermaLink="false">./../../index.html?p=595#comment-43</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-crear-un-usb-bootable/#comment-42&quot;&gt;Javier Pérez&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-42&quot;&gt;Javier Pérez&lt;/a&gt;.
 
 Gracias por su velocidad amigo.
 
 Es usted un gran administrador.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-crear-un-usb-bootable/#comment-42">Javier Pérez</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-42">Javier Pérez</a>.</p>
 <p>Gracias por su velocidad amigo.</p>
 <p>Es usted un gran administrador.</p>
 ]]></content:encoded>
@@ -40,16 +40,16 @@ Es usted un gran administrador.]]></description>
 		<item>
 		<title>
 		Por: Javier Pérez		</title>
-		<link>/como-crear-un-usb-bootable/#comment-42</link>
+		<link>./../index.html#comment-42</link>
 
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Tue, 17 Sep 2019 08:06:32 +0000</pubDate>
-		<guid isPermaLink="false">/?p=595#comment-42</guid>
+		<guid isPermaLink="false">./../../index.html?p=595#comment-42</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/como-crear-un-usb-bootable/#comment-41&quot;&gt;El Barto&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-41&quot;&gt;El Barto&lt;/a&gt;.
 
 Errata corregida, muchas gracias.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/como-crear-un-usb-bootable/#comment-41">El Barto</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-41">El Barto</a>.</p>
 <p>Errata corregida, muchas gracias.</p>
 ]]></content:encoded>
 		

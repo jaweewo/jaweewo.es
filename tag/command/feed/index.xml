@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Command &#8211; Jaweewo &#8211; Informática</title>
-	<atom:link href="/tag/command/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 29 Oct 2018 12:07:52 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.9.4</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
+	<url>./../../../wp-content/uploads/2020/11/cropped-LOGO-JAWEEWO_2-scaled-1-32x32.jpg</url>
 	<title>Command &#8211; Jaweewo &#8211; Informática</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Buscar archivos desde linea de comandos</title>
-		<link>/buscar-archivos-desde-linea-de-comandos/</link>
-					<comments>/buscar-archivos-desde-linea-de-comandos/#comments</comments>
+		<link>./../../../buscar-archivos-desde-linea-de-comandos/index.html</link>
+					<comments>./../../../buscar-archivos-desde-linea-de-comandos/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Javier Pérez]]></dc:creator>
 		<pubDate>Mon, 22 Oct 2018 11:05:26 +0000</pubDate>
@@ -38,13 +38,13 @@
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Bash]]></category>
 		<category><![CDATA[Command]]></category>
-		<guid isPermaLink="false">/?p=432</guid>
+		<guid isPermaLink="false">./../../../index.html?p=432</guid>
 
 					<description><![CDATA[<div class="entry-summary">
 En determinadas distribuciones de Linux como puede ser Ubuntu, las opciones gráficas para buscar archivos no siempre es muy buena.&#8230;
 </div>]]></description>
 		
-					<wfw:commentRss>/buscar-archivos-desde-linea-de-comandos/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../buscar-archivos-desde-linea-de-comandos/feed/index.html</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Buscar archivos desde linea de comandos	</title>
-	<atom:link href="/buscar-archivos-desde-linea-de-comandos/feed/" rel="self" type="application/rss+xml" />
-	<link>/buscar-archivos-desde-linea-de-comandos/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Tue, 06 Nov 2018 11:28:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Por: Alejandro		</title>
-		<link>/buscar-archivos-desde-linea-de-comandos/#comment-5</link>
+		<link>./../index.html#comment-5</link>
 
 		<dc:creator><![CDATA[Alejandro]]></dc:creator>
 		<pubDate>Tue, 06 Nov 2018 11:28:11 +0000</pubDate>
-		<guid isPermaLink="false">/?p=432#comment-5</guid>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-5</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;/buscar-archivos-desde-linea-de-comandos/#comment-4&quot;&gt;Sisian&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../index.html#comment-4&quot;&gt;Sisian&lt;/a&gt;.
 
 Un script para regar las plantas de forma automática.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="/buscar-archivos-desde-linea-de-comandos/#comment-4">Sisian</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../index.html#comment-4">Sisian</a>.</p>
 <p>Un script para regar las plantas de forma automática.</p>
 ]]></content:encoded>
 		
@@ -37,11 +37,11 @@ Un script para regar las plantas de forma automática.]]></description>
 		<item>
 		<title>
 		Por: Sisian		</title>
-		<link>/buscar-archivos-desde-linea-de-comandos/#comment-4</link>
+		<link>./../index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Sisian]]></dc:creator>
 		<pubDate>Tue, 06 Nov 2018 11:24:07 +0000</pubDate>
-		<guid isPermaLink="false">/?p=432#comment-4</guid>
+		<guid isPermaLink="false">./../../index.html?p=432#comment-4</guid>
 
 					<description><![CDATA[Muchas gracias, esto me ayudará con mis scripts.]]></description>
 			<content:encoded><![CDATA[<p>Muchas gracias, esto me ayudará con mis scripts.</p>

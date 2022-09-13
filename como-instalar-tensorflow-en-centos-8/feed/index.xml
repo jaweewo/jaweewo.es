@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como instalar TensorFlow en CentOS 8	</title>
-	<atom:link href="/como-instalar-tensorflow-en-centos-8/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-tensorflow-en-centos-8/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Thu, 18 Jun 2020 17:35:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Como Instalar PIP en Debian 10	</title>
-	<atom:link href="/como-instalar-pip-en-debian-10/feed/" rel="self" type="application/rss+xml" />
-	<link>/como-instalar-pip-en-debian-10/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Aprendizaje online.</description>
 	<lastBuildDate>Mon, 23 Dec 2019 16:32:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
